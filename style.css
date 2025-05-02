@@ -35,7 +35,7 @@
 }
 
 /* Hero Section with Gradient */
-.hero-section {
+/* .hero-section {
     background: linear-gradient(135deg, var(--docker-blue) 0%, var(--kubernetes-blue) 50%, var(--terraform-purple) 100%);
     color: white;
     padding: 5rem 0;
@@ -44,7 +44,7 @@
 }
 
 /* Color-coded Sections */
-#docker .card {
+/* #docker .card {
     border-top: 4px solid var(--docker-blue);
 }
 
@@ -57,35 +57,35 @@
 }
 
 /* Feature Cards with Hover Effects */
-.feature-card {
+/* .feature-card {
     border: none;
     border-radius: 10px;
     transition: all 0.3s ease;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     margin-bottom: 25px;
     overflow: hidden;
-}
+} */
 
-.feature-card:hover {
+/* .feature-card:hover {
     transform: translateY(-10px);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
-}
+} */ */
 
-.feature-card .card-body {
+/* .feature-card .card-body {
     padding: 2rem;
 }
 
 /* Code Blocks */
-pre {
+/* pre {
     background-color: #2d3748;
     color: #f8f9fa;
     padding: 1rem;
     border-radius: 8px;
     border-left: 4px solid var(--devops-orange);
-}
+} */
 
 /* Footer */
-footer {
+/* footer {
     background: #2c3e50;
     color: white;
     padding: 3rem 0;
@@ -103,10 +103,10 @@ footer a {
 footer a:hover {
     transform: translateY(-3px);
     color: var(--devops-orange);
-}
+} */
 
 /* Real-time Clock */
-.real-time-clock {
+/* .real-time-clock {
     font-size: 1.2rem;
     background: rgba(255, 255, 255, 0.15);
     padding: 10px 25px;
@@ -115,16 +115,16 @@ footer a:hover {
     margin-top: 1rem;
     backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.1);
-}
+} */ 
 
 /* Section Headers */
-h2 {
+/* h2 {
     position: relative;
     padding-bottom: 15px;
     margin-bottom: 30px;
-}
+} */
 
-h2:after {
+/* h2:after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -134,7 +134,7 @@ h2:after {
     height: 4px;
     background: var(--devops-orange);
     border-radius: 2px;
-} */
+}  */
 
 /* Responsive Adjustments */
 /* @media (max-width: 768px) {
